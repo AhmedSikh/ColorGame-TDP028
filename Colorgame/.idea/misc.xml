@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3074561403508772" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.3074561403508772" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3074561403508772" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/drawable/ic_menu.xml" value="0.3074561403508772" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-land/activity_main.xml" value="0.29541446208112876" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-land/activity_play_now.xml" value="0.29541446208112876" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-land/activity_setting.xml" value="0.29541446208112876" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-land/fragment_10.xml" value="0.1" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-land/fragment_11.xml" value="0.1" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-land/fragment_12.xml" value="0.1" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-land/fragment_3.xml" value="0.1" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-land/fragment_4.xml" value="0.1" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-land/fragment_5.xml" value="0.1" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-land/fragment_6.xml" value="0.1" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-land/fragment_7.xml" value="0.1" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-land/fragment_8.xml" value="0.1" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-land/fragment_9.xml" value="0.1" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-land/fragment_first.xml" value="0.29541446208112876" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-land/fragment_second.xml" value="0.29541446208112876" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-land/fragment_win.xml" value="0.33" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-land/line.xml" value="0.29541446208112876" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.25274122807017546" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-sw600dp/activity_play_now.xml" value="0.25274122807017546" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-sw600dp/activity_setting.xml" value="0.22" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-sw600dp/fragment_1.xml" value="0.25466008771929827" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-sw600dp/fragment_10.xml" value="0.33" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-sw600dp/fragment_11.xml" value="0.5" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-sw600dp/fragment_12.xml" value="0.33" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-sw600dp/fragment_2.xml" value="0.25466008771929827" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-sw600dp/fragment_3.xml" value="0.5" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-sw600dp/fragment_4.xml" value="0.25" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-sw600dp/fragment_5.xml" value="0.5" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-sw600dp/fragment_6.xml" value="0.5" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-sw600dp/fragment_7.xml" value="0.5" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-sw600dp/fragment_8.xml" value="0.5" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-sw600dp/fragment_9.xml" value="0.33" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-sw600dp/fragment_first.xml" value="0.25" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-sw600dp/fragment_second.xml" value="0.25274122807017546" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-sw600dp/fragment_win.xml" value="0.25" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout-sw600dp/line.xml" value="0.25274122807017546" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout/activity_main.xml" value="0.29385964912280704" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout/activity_play_now.xml" value="0.22" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout/activity_setting.xml" value="0.36666666666666664" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout/fragment_1.xml" value="0.29385964912280704" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout/fragment_10.xml" value="0.3489583333333333" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout/fragment_11.xml" value="0.25" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout/fragment_12.xml" value="0.1435304198800343" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout/fragment_3.xml" value="0.1435304198800343" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout/fragment_4.xml" value="0.1435304198800343" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout/fragment_5.xml" value="0.1435304198800343" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout/fragment_6.xml" value="0.1435304198800343" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout/fragment_7.xml" value="0.1435304198800343" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout/fragment_8.xml" value="0.1435304198800343" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout/fragment_9.xml" value="0.1435304198800343" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout/fragment_first.xml" value="0.33" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout/fragment_second.xml" value="0.29385964912280704" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout/fragment_win.xml" value="0.2" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/layout/line.xml" value="0.29385964912280704" />
+        <entry key="..\:/IP/Courses/TDP028/tdp028/Colorgame/app/src/main/res/menu/menu.xml" value="0.29385964912280704" />
+        <entry key="..\:/IP/TDP028/tdp028/Colorgame/app/src/main/res/layout/activity_play_now.xml" value="0.36666666666666664" />
+        <entry key="app/src/main/res/drawable/ic_menu.xml" value="0.3359375" />
+        <entry key="app/src/main/res/layout/abbpar.xml" value="0.26992753623188404" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_play_now.xml" value="0.30416666666666664" />
+        <entry key="app/src/main/res/layout/activity_setting.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.31979166666666664" />
+        <entry key="app/src/main/res/layout/fragment_10.xml" value="0.31979166666666664" />
+        <entry key="app/src/main/res/layout/fragment_11.xml" value="0.30416666666666664" />
+        <entry key="app/src/main/res/layout/fragment_12.xml" value="0.31979166666666664" />
+        <entry key="app/src/main/res/layout/fragment_3.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_4.xml" value="0.31979166666666664" />
+        <entry key="app/src/main/res/layout/fragment_5.xml" value="0.31979166666666664" />
+        <entry key="app/src/main/res/layout/fragment_6.xml" value="0.31979166666666664" />
+        <entry key="app/src/main/res/layout/fragment_7.xml" value="0.31979166666666664" />
+        <entry key="app/src/main/res/layout/fragment_8.xml" value="0.31979166666666664" />
+        <entry key="app/src/main/res/layout/fragment_9.xml" value="0.31979166666666664" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_first2.xml" value="0.31979166666666664" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_second2.xml" value="0.31979166666666664" />
+        <entry key="app/src/main/res/layout/fragment_win.xml" value="0.26992753623188404" />
+        <entry key="app/src/main/res/layout/line.xml" value="0.31979166666666664" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.31979166666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">firecast</string>
+    <string name="EditTextPersonName">Add your name here!</string>
+    <string name="EditTextAge">Add your age here!</string>
+    <string name="Button">SAVE</string>
+    <string name="textFromFire">Personal info should get here!</string>
+</resources>

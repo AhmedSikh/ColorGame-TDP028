@@ -1,0 +1,66 @@
+Man vet inte hur mycket tid saker som ska implementeras eller de krav som ska uppfyllas kommer ta. Därför kan man inte bestämma direkt nu vilken betyg man kan få. 
+Men jag tänker mig att satsa för betyg 4 men jag är inte säkert om jag kommer hinna nå det betyget eller kanske bara få betyg 3.
+#För betyg 4 krävs:
+    12 projektpoäng, Varav minst:
+        3p milstolpar
+        4p tekniska poäng (1p extra för att nå 12)
+        3p entreprenöriella poäng (1p extra för att nå 12)
+
+Viktig sak och nämna är att man vet inte om man ändrar på sina ider eller krav i framtiden. Det kommer man märka ibörjan av implementeringen. 
+Man vet inte heller om man kommer kanske hitta speciella saker som kommer passa mer sin app då kommer man kanske inte göra alla de krav som man tänkte göra ibörjan.
+
+
+
+Veckoplanering för TDP028:
+
+* V40(KLAR) = Börja med lite designe på saker och hur de ska se åt i slutändan.
+        Har läst exmplet som ligger på hemsidan, men det känns inte att jag fattar allt
+        Börja tänka på Tekniskt PM och läsa lite artiklar om detta. 
+        På grund av press arbete på de andra kurserna så tror jag inte att jag kommer kunna börja med skrivande.
+
+* V41(KLAR) = Börja med att skapa färgerna och text för dem.
+
+        börja med att skriva Tekniskt PM om jag känner mig redo för det.
+
+* V42(KLAR) = Börja med att skapa olika fragment/activity för att se och bestämma hur många antal fragment/activity ska det finnas.
+
+        Bra avvägning mellan användning av Activity och Fragments. Best practices säger att man gärna ska använda Fragments där det går, 
+        då dessa är mer lättviktiga än Activities. Activities bör användas när det gäller byten mellan olika användaraktiviteter,
+        t.ex. lista inkorg byts mot skriva mail.
+
+* V43(KLAR) = Börja med att skapa själva spelet där barnen ska tävlas för att samla poäng på rätta gissningar.
+
+* V44(KLAR) = Skapa något som visar barnet att de har vunnit (ljud eller bild/mönster).
+
+* V45(KLAR) = Någon form av accessibility stöd, t.ex. öka font-storlek.
+
+* V46(KLAR) = Någon typ av UX inställning, t.ex. möjlighet att ändra till dark mode.
+
+* V47(KLAR) = Halvtids-screencast på ca. 2 minuter, där du demar en tidig version av din app (ungefär motsvarande en Minimal Viable Product), inlämnat i repo.
+    Commit:en taggad med Milstolpe-6.
+
+        Användande av egenskriven Adapter, eller motsvarande klass, t.ex. ViewModel, som ser till att matning av data till GUI:t sköts 
+        när användaren scrollar, etc., och att data-element formateras på ett snyggt sätt. I fallet av egen adapter, kan man t.ex. ärva 
+        från en ArrayAdapter och göra sin egen list-element formattering (dvs. override på superklassens metod för att ta fram en ny View att visa).
+
+* V48(KLAR) = Multispråk-stöd. Använd Androids system för att göra så att Appen identiferar minst 2 språk och använder t.ex.
+         Engelska som default och Svenska för användare med Svenska språkinställningar.
+
+* V49(KLAR) = Notifications. Kan skicka notifications till användaren. Notifications möjliggör för appar att visa att något relevant finns.
+         Implementera notifications för din app och testa att visa information även när appen inte är igång.
+
+* V50(KLAR) = Hantering av bakåtknapp, så att man aldrig hamnar konstigt vid tryck på bakåtknappen. Detta sköts oftast automatisk av Android,
+         men kan i vissa fall kräva hantering av vad som läggs på backstack.
+
+* V51(KLAR) = Hantering av skärmrotation. om enheten roteras ska skärminnehållet förbli stabilt. Samma innehåll visas som före rotationen,
+         men nu med annan layout. Användarupplevelsen ska alltså bevaras, även om mobilen eller tablet:en roteras under körning.
+
+* V52(KLAR) = Hantering av stora och små skärmar med olika layouter. Användaren ska kunna byta från mobil till tablet utan att tappa i upplevelse.
+         Bl.a. är det viktigt att information på skärmen förblir detsamma, samt att layout:en ser bra ut i båda lägen.
+         Användarupplevelsen kan enkelt testas genom att rotera mobilen eller emulatorn före uppstart.
+
+        La till Tekniskt PM i repot.
+
+* V01(KLAR) = Kontrollera allt innan deadline.
+
+* V02(KLAR) Måndag 01-10 kl 17 = Deadline för inlämning av färdigt projekt.

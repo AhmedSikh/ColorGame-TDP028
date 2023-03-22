@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لعبة الألوان</string>
+    <string name="play_now">ألعب الآن</string>
+    <string name="yellow">أصفر</string>
+    <string name="orange">برتقالي</string>
+    <string name="green">أخضر</string>
+    <string name="you_are_good">أنت رائع</string>
+    <string name="settings">الإعدادات</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="red">أحمر</string>
+    <string name="blue">أزرق</string>
+    <string name="black">أسود</string>
+    <string name="grey">فضي</string>
+    <string name="brown">بني</string>
+    <string name="purple">بنفسجي</string>
+    <string name="rainbow">قوس قزح</string>
+    <string name="white">أبيض</string>
+    <string name="pink">زهري</string>
+    <string name="please_scroll_down_to_learn_all_colors_below">يرجى التمرير إلى الأسفل لتعلم كل الألوان أدناه:</string>
+    <string name="notification_msg">ألعب لعبة الألوان الآن</string>
+    <string name="medium">وسط</string>
+    <string name="small">صغير</string>
+    <string name="large">كبير</string>
+    <string name="choose_font_size">أختر حجم الخط</string>
+</resources>

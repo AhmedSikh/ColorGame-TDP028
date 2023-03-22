@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment6">
+
+    <ImageButton
+        android:id="@+id/BrownButton"
+        android:layout_width="193dp"
+        android:layout_height="178dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="18dp"
+        android:layout_marginBottom="548dp"
+        android:src="@drawable/brown"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/PinkButton"
+        app:layout_constraintHorizontal_bias="0.403"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="ContentDescription,SpeakableTextPresentCheck" />
+
+    <ImageButton
+        android:id="@+id/PinkButton"
+        android:layout_width="193dp"
+        android:layout_height="178dp"
+        android:layout_marginBottom="548dp"
+        android:src="@drawable/pink"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="ContentDescription,SpeakableTextPresentCheck,ImageContrastCheck" />
+
+    <ImageButton
+        android:id="@+id/OrangeButton"
+        android:layout_width="193dp"
+        android:layout_height="178dp"
+        android:layout_marginStart="26dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="548dp"
+        android:src="@drawable/orange"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.525"
+        app:layout_constraintStart_toEndOf="@+id/PinkButton"
+        tools:ignore="ContentDescription,SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/answerText"
+        android:layout_width="116dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="364dp"
+        android:text="@string/brown"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/PinkButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
